@@ -149,8 +149,8 @@ This protocol outlines the steps for performing multiplexed sequencing using the
 - Basecalled FastQ files are saved to your selected directory.
 - Demultiplexed reads are sorted by barcode.
 - Use downstream tools like:
-    - **Guppy**
-    - **NanoPlot**
+    - **Dorado**
+    - **NanoPipe\https://bioinformatics.uni-muenster.de/tools/nanopipe2/index.hbi?**
     - **EPI2ME**
     - **Flye**, **Medaka**, etc. for analysis
 
